@@ -11,6 +11,7 @@ main()
 
     // Ввод имени: пользователь вводит данные (обновлено в main)
     std::cout << "Enter your name: ";
+    
     // Вывод персонализированного сообщения
     std::cout << "Hello world from @" << name << std::endl;
     return 0;
